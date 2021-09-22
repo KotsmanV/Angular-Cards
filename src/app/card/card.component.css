@@ -1,0 +1,7 @@
+.card{
+    width: 350px;
+}
+
+:host{
+    padding: 15px;
+}
